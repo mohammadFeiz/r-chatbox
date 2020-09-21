@@ -1,6 +1,7 @@
 {
   "name": "r-chatbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "main": "index.js",
   "dependencies": {
     "r-dropdown-button": "^1.0.12",
     "react": "16.13.1",
@@ -14,5 +15,12 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
-  }
+  },
+  "author": "mohamad sharif feiz <feiz.ms@gmail.com> (http://www.frontend-master.ir)",
+  "bugs": {
+    "url": "https://github.com/mohammadFeiz/r-chatbox/issues",
+    "email":"feiz.ms@gmail.com"
+  },
+  "license": "ISC",
+  
 }
